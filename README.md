@@ -1,2 +1,2 @@
-<img style="align-items: center;" src="./Logo.png"/>
-<h3 style="text-align: center;">Projeto desenvolvido na trilha ignite ESPORTS</h3>
+<img style="margin: 0 auto;" src="./Logo.png"/>
+<h3 style="margin: 10px auto;">Projeto desenvolvido na trilha ignite ESPORTS</h3>
